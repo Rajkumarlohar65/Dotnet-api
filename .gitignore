@@ -1,0 +1,75 @@
+# .NET build output directories
+bin/
+obj/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# User-specific and IDE-specific files
+*.user
+*.suo
+*.sln.docstates
+.vs/
+
+# Visual Studio generated files
+**/*.VC.db
+**/*.VC.opendb
+**/*.VC.db-shm
+**/*.VC.db-wal
+
+# Test Results
+TestResults/
+
+# .NET Core build cache directory
+*.dotnet-*
+dotnet-*/
+
+# MSTest test files
+*.trx
+
+# Rider editor
+.idea/
+
+# Resharper files
+_resharper/
+
+# Build output and publish directories
+publish/
+build/
+
+# Logs and temporary files
+*.log
+*.swp
+*.tmp
+
+# Configuration files with sensitive information
+appsettings*.json
+secrets.json
+
+# Local database file (SQLite, SQL Server Compact)
+*.mdf
+*.ldf
+
+# Visual Studio Code
+.vscode/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Windows recycle bin
+$RECYCLE.BIN/
+
+# Windows volume information
+System Volume Information/

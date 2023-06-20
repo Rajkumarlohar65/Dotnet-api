@@ -1,0 +1,19 @@
+# Ignore compiled binaries
+bin/
+obj/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore user-specific files
+*.suo
+*.user
+.vs/
+
+# Ignore logs and cache directories
+logs/
+cache/
+
+# Ignore sensitive information (example files)
+appsettings.json
+secrets.json
