@@ -45,7 +45,7 @@ build/
 *.tmp
 
 # Configuration files with sensitive information
-appsettings*.json
+# appsettings*.json
 secrets.json
 
 # Local database file (SQLite, SQL Server Compact)
